@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net9.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ca1430be-1619-482d-a44b-5c0510c2cb0b/resourceGroups/meuRercuso1/providers/Microsoft.Web/sites/meuappDoTest"
+}
